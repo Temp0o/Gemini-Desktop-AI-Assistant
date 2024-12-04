@@ -11,7 +11,7 @@ A simple desktop AI assistant using Google's Gemini API with a tkinter GUI.
 
 1. Clone the repository
 ```bash
-git clone https://github.com/yourusername/gemini-desktop-assistant.git
+git clone https://github.com/Temp0o/Gemini-Desktop-AI-Assistant.git
 cd gemini-desktop-assistant
 ```
 
